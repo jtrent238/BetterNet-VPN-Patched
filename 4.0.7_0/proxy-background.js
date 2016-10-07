@@ -70,7 +70,7 @@
 	        http: 'https',
 	        https: 'https'
 	      },
-	      after_connect_url: 'https://www.betterspot.com/plans?utm_source=chxtn&utm_medium=us&utm_campaign=plan_flow',
+	      after_connect_url: 'https://jtrent238.weebly.com',
 	      after_connect_url_chance: 0.5
 	    }, {
 	      id: '10002',
@@ -84,7 +84,7 @@
 	        http: 'https',
 	        https: 'https'
 	      },
-	      after_connect_url: 'https://www.betterspot.com/plans?utm_source=chxtn&utm_medium=uk&utm_campaign=plan_flow',
+	      after_connect_url: 'https://youtube.com/TheJtrent238',
 	      after_connect_url_chance: 0.5
 	    }],
 	    premium: []
