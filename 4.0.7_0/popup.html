@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Betternet</title>
+
+  <link rel='stylesheet' href='styles.css' />
+</head>
+<body>
+  <div class="page main-page visible">
+    <p class='notification' id='notification'>Hey, wassup</p>
+
+    <i class='logo' id='logo'>
+      <i></i>
+      <i></i>
+    </i>
+
+    <button id='connect' data-analytics-id='Connect'>Connect</button>
+    <a href='http://support.betternet.co/hc/en-us/requests/new' id='contact'>
+      There seems to be a problem. <br />
+      Contact Us
+    </a>
+
+    <div class="location">
+      <label>Select Location</label>
+      <button data-analytics-id='Locations-List'>
+      </button>
+    </div>
+
+  </div>
+
+  <div class="page locations-page hidden">
+    <div class="title">
+      <i class="close" data-analytics-id='Locations-List-Close'>✕</i>
+      Select Location
+    </div>
+    <div class="locations-list">
+      <ul>
+      </ul>
+    </div>
+  </div>
+
+  <footer>
+    <a href="https://www.betternet.co/?utm_source=chxtn&utm_medium=footer&utm_campaign=btnt_flow" data-analytics-id='Betternet-Footer'>
+      <span>Betternet</span>
+    </a>
+    <br>
+    <small></small>
+  </footer>
+
+  <script src='./browser-polyfill.min.js'></script>
+  <script src='./popup.js'></script>
+  <script src='./analytics.js'></script>
+</body>
+</html>

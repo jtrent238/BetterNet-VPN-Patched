@@ -1,0 +1,25 @@
+{
+   "background": {
+      "scripts": [ "background.js", "proxy-background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "img/shieldon-deactive.png",
+      "default_popup": "popup.html",
+      "default_tite": "betternet"
+   },
+   "content_security_policy": "script-src 'self' https://*.betternet.co/ https://apple.com/ https://*.flurry.com/ https://s3.amazonaws.com/ https://www.google-analytics.com/ https://ssl.google-analytics.com; object-src 'self'",
+   "description": "Betternet unlimited free VPN Proxy for Chrome enables you to access to all blocked websites and makes you secure",
+   "icons": {
+      "128": "img/shieldon.png",
+      "16": "img/shieldon.png",
+      "48": "img/shieldon.png"
+   },
+   "key": "",
+   "manifest_version": 2,
+   "minimum_chrome_version": "22",
+   "name": "Betternet Unlimited Free VPN Proxy",
+   "offline_enabled": false,
+   "permissions": [ "proxy", "webRequest", "webRequestBlocking", "\u003Call_urls>", "background", "http://*/", "https://*/*", "storage", "tabs" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "4.0.7"
+}

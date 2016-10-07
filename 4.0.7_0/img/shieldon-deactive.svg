@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.2 (15855) - http://www.bohemiancoding.com/sketch -->
+    <title>shieldon-deactive</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="shieldon-deactive" sketch:type="MSArtboardGroup">
+            <g id="Imported-Layers-Copy" sketch:type="MSLayerGroup" transform="translate(2.000000, 2.000000)">
+                <path d="M1.27749464,2.29396581 C0.555000292,2.43759904 0.0269746856,3.05142905 0.00666845669,3.78134705 C-0.0682545257,6.47008663 0.402417124,12.9062858 5.89261032,14.7772486 C6.24895599,14.8986839 6.62325262,14.960925 6.99996818,14.960925 C7.37674739,14.960925 7.75098037,14.8986839 8.10732604,14.7772486 C13.5975829,12.9062858 14.0682545,6.47008663 13.9933316,3.78134705 C13.9729617,3.05142905 13.4449997,2.43759904 12.7224417,2.29396581 C10.3941639,1.83116832 8.59868585,0.80757943 7.85766764,0.333030137 C7.60202558,0.169313119 7.30437064,0 6.99996818,0 C6.69562937,0 6.39797443,0.169313119 6.14233237,0.333030137 C5.4012505,0.80757943 3.60583613,1.83116832 1.27749464,2.29396581" id="Fill-1" fill="#A5A5A5" sketch:type="MSShapeGroup"></path>
+                <path id="Fill-8" fill="#FFFFFF" sketch:type="MSShapeGroup" d="M8.28937729,10.3333333 L5.71062271,10.3333333 C5.58113797,10.3333333 5.47619048,10.2064944 5.47619048,10.05 L5.47619048,9.95555556 L8.52380952,9.95555556 L8.52380952,10.05 C8.52380952,10.2064944 8.41878388,10.3333333 8.28937729,10.3333333"></path>
+            </g>
+        </g>
+    </g>
+</svg>
