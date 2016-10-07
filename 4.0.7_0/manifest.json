@@ -8,7 +8,7 @@
       "default_tite": "betternet"
    },
    "content_security_policy": "script-src 'self' https://*.betternet.co/ https://apple.com/ https://*.flurry.com/ https://s3.amazonaws.com/ https://www.google-analytics.com/ https://ssl.google-analytics.com; object-src 'self'",
-   "description": "Betternet unlimited free VPN Proxy for Chrome enables you to access to all blocked websites and makes you secure",
+   "description": "Betternet unlimited free VPN Proxy for Chrome enables you to access to all blocked websites and makes you secure *** PATCHED BY: jtrent238 ***",
    "icons": {
       "128": "img/shieldon.png",
       "16": "img/shieldon.png",
